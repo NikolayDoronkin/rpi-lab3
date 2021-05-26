@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Playfair Display';
+    font-weight: normal;
+    src: url("../fonts/PlayfairDisplay-Regular.ttf");
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    font-weight: 500;
+    src: url("../fonts/PlayfairDisplay-Medium.ttf");
+}

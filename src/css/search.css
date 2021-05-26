@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font: 1.2em "Calibri Light";
+}
+
+.navigation {
+    font-size: 2rem;
+    position: fixed;
+    z-index: 10;
+    width: 100vw;
+}
+
+.search-form {
+    margin-right: 1vw;
+}
+
+.search-form input {
+    font-size: 1.8rem;
+}
+
+.search-form button {
+    font: 500 1.1em "Calibri Light";
+    color: #1a1e21;
+    border-color: #1a1e21;
+}
+
+.search-form button:hover {
+    background-color: #565e64;
+    font: 500 1.1em "Calibri Light";
+}
+
+.authors-list {
+    padding: 5vw 0;
+}
+
+.authors-list-a {
+    font: 1.4em "Calibri";
+    padding: 1vw 1vw 1vw 3vw;
+    color: #565e64;
+}
+
+footer {
+    background-color: #1a1e21;
+    color: white;
+    font: 500 1.2em "Calibri Light";
+    padding: 0.1vw;
+    bottom: 0;
+    width: 100vw;
+}
+
+footer p {
+    margin: 1vw 0 1vw 1vw;
+}

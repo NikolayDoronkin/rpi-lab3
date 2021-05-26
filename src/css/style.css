@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font: 1.2em "Calibri Light";
+}
+
+.navigation {
+    font-size: 2rem;
+    position: fixed;
+    z-index: 10;
+    width: 100vw;
+}
+
+.navbar-collapse {
+    flex-grow: 1;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.separator {
+    border-left: solid 1px black;
+}
+
+.language-nav {
+    padding: 0 1vw;
+}
+
+h1 {
+    position: relative;
+    bottom: 20vw;
+    margin: 0 auto;
+    z-index: 5;
+    color: white;
+    font: 6vw "Playfair Display";
+    text-align: center;
+}
+
+.container {
+    line-height: 1.4;
+    margin-bottom: 5vw;
+}
+
+h2 {
+    font: 500 3em "Playfair Display";
+    margin-bottom: 2vw;
+}
+
+.about-text {
+    margin: -3vw auto 0 auto;
+}
+
+.about-image img {
+    display: block;
+    margin: 1vw auto;
+    height: 35vw;
+}
+
+.author-of-day {
+    padding: 3vw 0;
+    border-top: solid 1px black;
+    border-bottom: solid 1px black;
+    margin-bottom: 3vw;
+}
+
+.author-of-day-image img {
+    display: block;
+    height: 40vw;
+}
+
+.author-of-day-info h3 {
+    font: 500 2.5em "Playfair Display";
+    margin-bottom: 1.5vw;
+}
+
+.read-more-link {
+    text-decoration: none;
+    color: white;
+    background-color: #1a1e21;
+    padding: 5px;
+    transition: 0.5s;
+    display: inline-block;
+    font: 1.4em "Playfair Display";
+}
+
+.read-more-link:hover {
+    color: #bcbebf;
+}
+
+.lifetime {
+    font: 500 2em "Playfair Display";
+}
+
+.creator-card {
+    margin: 0 auto 1vw auto;
+}
+
+.creators h2 {
+    text-align: center;
+    margin-bottom: 3vw;
+}
+
+.creators h5 {
+    font: 500 1.4em Calibri;
+}
+
+.git-button {
+    display: block;
+    margin: 0 auto;
+    background-color: white;
+    border: none;
+    color: black;
+    font: 500 1.2em "Calibri Light";
+    transition: 0.5s;
+}
+
+.git-button:hover {
+    background-color: #bebebf;
+    font: 500 1.2em "Calibri";
+}
+
+footer {
+    background-color: #1a1e21;
+    color: white;
+    font: 500 1.2em "Calibri Light";
+    padding: 0.1vw;
+}
+
+footer p {
+    margin: 1vw 0 1vw 1vw;
+}

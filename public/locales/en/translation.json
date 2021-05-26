@@ -1,0 +1,166 @@
+{
+  "header.home": "Home",
+  "header.authors": "Authors",
+  "header.creators": "Creators",
+
+  "main.label": "BELARUSIAN AUTHORS",
+  "main.about": "About us",
+  "main.about1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the\nindustry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and\nscrambled it to make a type specimen book. It has survived not only five centuries, but also the leap\ninto electronic typesetting, remaining essentially unchanged. Contrary to popular belief, Lorem Ipsum is\nnot simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over\n2000 years old.",
+  "main.about2": "It is a long established fact that a reader will be distracted by the readable content of a page when\nlooking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution\nof letters, as opposed to using 'Content here, content here', making it look like readable English.\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered\nalteration in some form, by injected humour, or randomised words which don't look even slightly\nbelievable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything\nembarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat\npredefined chunks as necessary, making this the first true generator on the Internet.",
+
+  "main.author_label": "Author of the day",
+  "main.fact":"It is a long established fact that a reader will be distracted by the readable content of a page when\nlooking at its layout. It is a long established fact that a reader will be distracted by the readable\ncontent of a page when\nlooking at its layout.",
+  "main.readmore": "Read more...",
+
+  "search": "Search",
+  "birth": "Birth place",
+
+  "obuhovich":"Algerd Obukhovich",
+  "kupala": "Yanka Kupala",
+  "kolas": "Yakub Kolas",
+  "tank" : "Maxim Tank",
+  "baradulin": "Rygor Borodulin",
+
+  "main.developers":"Mum's developers",
+  "main.desc": "Crack down, drunkard and addict",
+
+  "kolya": "Nikolay",
+  "katya": "Katerine",
+
+  "obuhovich.location1": "Kalotsichi",
+  "obuhovich.title1": "The birth of a poet",
+  "obuhovich.description1": "Alkherd Ryshardovich Obukhovich was born on the Kalatsichi estate of the Bobruisk district (now the Glusky district). As was customary in wealthy landowner families, Algerd received a good home education. Later, according to contemporaries, the writer was fluent in the main European languages  , Italian, English, German, easy to read Spanish. ",
+
+  "obuhovich.location2": "Slutsk",
+  "obuhovich.title2": "Studying at the gymnasium",
+  "obuhovich.description2": "In the fall of 1852, Algerd entered the Slutsk Calvinist gymnasium .. Schooling coincided with a channel of great social upsurge in the country, which played a decisive role in shaping the democratic outlook of the future writer. Growing up, I was developing, and the world is in front of me it expanded more and more beautifully, and there came a time when we could say that they did not see insignificant people, he said later in his memoirs.",
+
+  "obuhovich.location3": "Vilnius",
+  "obuhovich.title3": "Married",
+  "obuhovich.description3": "It is known that in the second half of the 1860s the writer got married (his wife died in 1873), in 1878 he visited Kiev again. Memories (memories of J. Dila) speak of an acute conflict between A. Obukhovich and his relatives and all the landowners' entourage: the writer wanted to give all the land to the peasants, as a result of which he was in danger of insanity. It was then that he left home, taking only his favorite books with him. ",
+
+  "obuhovich.location4": "Kiev",
+  "obuhovich.title4": "Married",
+  "obuhovich.description4": "At first A. Obukhovich lived with a friend - a participant in the 1863 uprising of the Rasudovskys (Kurgan estate in the Slutsk region), then he moved to Slutsk, where he was engaged in tutoring. Interestingly, according to official documents Obukhovich in 1884 was considered the owner significant estates in the Bobruisk region (more than 1360 acres of land), which were estimated at almost 25 thousand rubles.But they, like the estate of Grabov's father, were mortgaged to a land bank. Newspapers have repeatedly announced the sale of estates for debts, but when this happened - unknown. One thing is clear - the social status of A. Obukhovich at the end of his life has changed dramatically, nothing, except for the name and associated genealogical and historical associations (although this is also important), did not remind of the former aristocracy. ",
+
+  "obuhovich.location5": "Slutsk",
+  "obuhovich.title5": "Death of a poet",
+  "obuhovich.description5": "At first A. Obukhovich lived with a friend - a participant in the 1863 uprising of the Rasudovskys (Kurgan estate in the Slutsk region), then he moved to Slutsk, where he was engaged in tutoring. Interestingly, according to official documents Obukhovich in 1884 was considered the owner significant estates in the Bobruisk region (more than 1360 acres of land), which were estimated at almost 25 thousand rubles.But they, like the estate of Grabov's father, were mortgaged to a land bank. Newspapers have repeatedly announced the sale of estates for debts, but when this happened - unknown. One thing is clear - the social status of A. Obukhovich at the end of his life has changed dramatically, nothing, except for the name and associated genealogical and historical associations (although this is also important), did not remind of the former aristocracy. ",
+
+  "kupala.location1": "Molodechno district of Minsk region",
+  "kupala.title1": "The birth of a poet",
+  "kupala.description1": "Born on June 25 (July 7), 1882 in the village of Vyazinka (now the Molodechno district of the Minsk region of Belarus) in the Belarusian Catholic family of Dominik Onufrievich Lutsevich and Benigna Ivanovna Lutsevich (née Volosevich).",
+
+  "kupala.location2": "small town Beloruch",
+  "kupala.title2": "Study",
+  "kupala.description2": "In 1898 he graduated from the public school in the town of Belaruch, the next year he passed the exam for the title of home teacher.",
+
+  "kupala.location3": "Vilnius",
+  "kupala.title3": "First job",
+  "kupala.description3": "In 1908-1909 he lived in Vilna, where he worked in the editorial office of the first Belarusian newspaper Nasha Niva. There he also met his future wife, Vladislava Stankevich, and actress Pavlina Myadelka",
+
+  "kupala.location4": "St. Petersburg",
+  "kupala.title4": "Study at the university",
+  "kupala.description4": "In 1909-1913, the aspiring poet studied in St. Petersburg at the preparatory general education courses of A. Chernyaev, then in 1915 he studied at the Moscow City People's University named after A. L. Shanyavsky, founded in 1908 with funds from gold miner and philanthropist Alfons Leonovich Shanyavsky and his wife. ",
+
+  "kupala.location5": "St. Petersburg",
+  "kupala.title5": "Publication of the first work",
+  "kupala.description5": "In 1908, the first collection of Kupala entitled Zhaleika ( Dudochka ) was published in St. Petersburg.",
+
+  "kupala.location6": "St. Petersburg",
+  "kupala.title6": "First play edition",
+  "kupala.description6": "On June 3, 1912, Kupala completed his first comedy play Paulinka , which was published in St. Petersburg in the same year, then staged first in St. Petersburg, then in Vilno.",
+
+  "kupala.location7": "St. Petersburg",
+  "kupala.title7": "Publication of the first play",
+  "kupala.description7": "On June 3, 1912, Kupala completed his first comedy play Paўlinka , which was published in St. Petersburg in the same year, then staged first in St. Petersburg, then in Vilno.",
+
+  "kupala.location8": "St. Petersburg",
+  "kupala.title8": "Death of a poet",
+  "kupala.description8": "Yanka Kupala died on June 28, 1942 at the Moskva Hotel, falling into a flight of stairs between the 9th and 10th floors of the hotel, death was instantaneous.",
+
+  "kolas.location1": "Columns of the Stolbtsy district of the Minsk region of Belarus",
+  "kolas.title1": "The birth of a poet",
+  "kolas.description1": "Born on October 22 (November 3), 1882 in the village of Akinchitsy (now the territory of the city of Stolbtsy, Stolbtsy District, Minsk Region, Belarus), in the Orthodox family of forester Mikhail Kazimirovich (Mikhas) Mitskevich and housewife Anna Yuryevna Losik. the lines are Catholics. ",
+
+  "kolas.location2": "Nesvizh",
+  "kolas.title2": "Graduation",
+  "kolas.description2": "Graduated from the public school, in 1902 - the Nesvizh teacher's seminary.",
+
+  "kolas.location3": "Pinsk region",
+  "kolas.title3": "First job",
+  "kolas.description3": "Worked as a teacher in Pinsk region",
+
+  "kolas.location4": "Pinsk region",
+  "kolas.title4": "First job as a writer",
+  "kolas.description4": "In 1906, the first publication - the poem Dear Land in the Belarusian newspaper Nasha Dolya",
+
+  "kolas.location5": "Minsk",
+  "kolas.title5": "Behind Bars",
+  "kolas.description5": "For participation in the organization of an illegal teachers' congress, he was sentenced to imprisonment, which he served in a Minsk prison (1908-1911).",
+
+  "kolas.location6": "Pinsk",
+  "kolas.title6": "Working as a teacher",
+  "kolas.description6": "In 1912-1914 he taught in Pinsk",
+
+  "kolas.location7": "Minsk",
+  "kolas.title7": "Scientific activity",
+  "kolas.description7": "Academician (1928), since 1929 - Vice-President of the Academy of Sciences of the BSSR, deputy of the Supreme Council of the BSSR (1938-1956).",
+
+  "kolas.location8": "Minsk",
+  "kolas.title8": "Death of a poet",
+  "kolas.description8": "At the end of his life he suffered a lot and was often ill, in particular, he suffered 26 pneumonia. Yakub Kolas died suddenly on August 13, 1956. He was buried at the Military Cemetery in Minsk.",
+
+
+  "tank.location1": "Myadel district of the Minsk region of Belarus",
+  "tank.title1": "The birth of a poet",
+  "tank.description1": "Born on September 4 (17), 1912 in the village of Pilkovshchina (now Myadel district, Minsk region of Belarus) in a peasant family.",
+
+  "tank.location2": "Poland",
+  "tank.title2": "Trouble with the law",
+  "tank.description2": "Arrested by the Polish authorities in 1932 and 1934.",
+
+  "tank.location3": "USSR",
+  "tank.title3": "Military activity",
+  "tank.description3": "In 1940 he was admitted to the USSR Joint Venture. During the Great Patriotic War he continued to work in the front-line press.",
+
+  "tank.location4": "USSR",
+  "tank.title4": "First job",
+  "tank.description4": "In 1945-1948 Maxim Tank was the editor of the comic magazine Vozhyk.",
+
+  "tank.location5": "USSR",
+  "tank.title5": "Work",
+  "tank.description5": "In 1948-1966 - editor-in-chief of the Belarusian literary magazine Polymya.",
+
+  "tank.location6": "Minsk",
+  "tank.title6": "Scientific activity",
+  "tank.description6": "Chairman of the Supreme Soviet of the BSSR (1965-1971). Deputy of the Supreme Soviet of the USSR since 1969. Academician of the Academy of Sciences of the Byelorussian SSR since 1972.",
+
+  "tank.location7": "Minsk",
+  "tank.title7": "Death of a poet",
+  "tank.description7": "Maxim Tank died in Minsk on August 7, 1995. Buried in his native village.",
+
+  "baradulin.location1": "Veresovka farm",
+  "baradulin.title1": "The birth of a poet",
+  "baradulin.description1": "Grigory Borodulin was born on February 24, 1935 on the Veresovka farm (the official name of the farm was Gorodok-2 [1], now it is the northwestern outskirts of the Tikhonyaty village of the Sorochinsky village council)",
+
+  "baradulin.location2": "Usha",
+  "baradulin.title2": "Secondary education",
+  "baradulin.description2": "Studied at Ushach secondary school (graduated in 1954).",
+
+  "baradulin.location3": "Minsk",
+  "baradulin.title3": "Higher education",
+  "baradulin.description3": "Studied at the Faculty of Philology of the Belarusian State University (graduated in 1959).",
+
+  "baradulin.location4": "Minsk",
+  "baradulin.title4": "Scientific activity",
+  "baradulin.description4": "Borodulin is a full member of the Union of Belarusian Writers and the Belarusian PEN Center (1989-1999, president since 1990, vice president since 1999). Member of the Belarusian Popular Front, member of the Belarusian Popular Front Seim (since 1989). In 1995-1997 he was on the board of the Belarusian Soros Foundation [2]. ",
+
+  "baradulin.location5": "Minsk",
+  "baradulin.title5": "Received the title",
+  "baradulin.description5": "Became the last Belarusian to be awarded the title of national poet (1992).",
+
+  "baradulin.location6": "Minsk",
+  "baradulin.title6": "Death of a poet",
+  "baradulin.description6": "Died on March 2, 2014 in his apartment in Minsk at the age of 80 from Parkinson's disease. President of the Republic of Belarus A. G. Lukashenko sent his condolences to R. I. Borodulin's relatives."
+}
