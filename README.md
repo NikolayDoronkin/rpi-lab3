@@ -1,1 +1,1 @@
- https://nikolaydoronkin.github.io/rpi-lab3/public
+ https://nikolaydoronkin.github.io/rpi-lab3/public/index.html
